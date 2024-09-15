@@ -28,3 +28,6 @@ source ~/.profile
 ```bash
 go version
 ```
+
+Notes:
+All golang version already and latest here https://go.dev/dl/
